@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://media.licdn.com/dms/image/D5622AQHZe-8VDA8OMw/feedshare-shrink_1280/0/1695774862338?e=1709769600&amp;v=beta&amp;t=1YW8AJEAR_AuTz5T8CYumGaMOZZhM4f94sX1rGMOfi0" alt="project-screenshot" width="400" height="400/">
+<img src="https://media.licdn.com/dms/image/D5622AQHZe-8VDA8OMw/feedshare-shrink_1280/0/1695774862338?e=1709769600&amp;v=beta&amp;t=1YW8AJEAR_AuTz5T8CYumGaMOZZhM4f94sX1rGMOfi0" alt="project-screenshot" width="400" height="auto/">
 
   
   
