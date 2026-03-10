@@ -1,26 +1,29 @@
 ---
 name: Bug Report
-about: Reporta un error
+about: Report a bug or unexpected behavior
 title: 'fix: '
 labels: bug
 assignees: ''
 ---
 
-## Descripción
-<!-- Descripción clara del problema -->
+## Description
+<!-- A clear and concise description of the bug. -->
 
-## Pasos para reproducir
+## Steps to reproduce
 1.
 2.
 3.
 
-## Comportamiento esperado
+## Expected behavior
+<!-- What should happen. -->
 
-## Comportamiento actual
+## Actual behavior
+<!-- What actually happens. -->
 
-## Capturas / Videos
+## Screenshots / Video
+<!-- If applicable. -->
 
-## Entorno
-- Dispositivo:
-- OS:
-- Versión de la app:
+## Environment
+- Device:
+- OS version:
+- App version:

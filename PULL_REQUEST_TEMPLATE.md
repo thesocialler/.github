@@ -1,29 +1,30 @@
-## Descripción
-<!-- Describe brevemente qué hace este PR y por qué -->
+## Description
+<!-- A clear and concise description of what this PR does and why. -->
 
-## Tipo de cambio
-- [ ] ✨ `feat` — Nueva funcionalidad
-- [ ] 🐛 `fix` — Bug fix
-- [ ] ♻️ `refactor` — Refactor
-- [ ] 💄 `style` — UI / Estilos
-- [ ] 🧪 `test` — Tests
-- [ ] 📦 `chore` — Dependencias / Mantenimiento
-- [ ] 🔧 `ci` — CI/CD
-- [ ] 📝 `docs` — Documentación
+## Type of change
+- [ ] `feat` — New feature
+- [ ] `fix` — Bug fix
+- [ ] `refactor` — Refactor with no functional change
+- [ ] `style` — UI / visual changes
+- [ ] `test` — Tests
+- [ ] `chore` — Maintenance / dependencies
+- [ ] `ci` — CI/CD
+- [ ] `docs` — Documentation
 
-## Cambios realizados
+## Changes
+<!-- List the main changes made in this PR. -->
 -
 
-## Capturas de pantalla / Video
-<!-- Si aplica -->
+## Screenshots / Video
+<!-- If applicable, add screenshots or a screen recording. -->
 
 ## Checklist
-- [ ] El título del PR sigue Conventional Commits
-- [ ] El código compila sin errores
-- [ ] `flutter analyze` sin warnings
-- [ ] Tests pasan (`flutter test`)
-- [ ] Probado en Android
-- [ ] Probado en iOS
+- [ ] PR title follows Conventional Commits format
+- [ ] Code compiles without errors
+- [ ] `flutter analyze` passes with no warnings
+- [ ] `flutter test` passes
+- [ ] Tested on Android
+- [ ] Tested on iOS
 
-## Issues relacionados
+## Related issues
 <!-- Closes #XXX -->

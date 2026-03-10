@@ -1,18 +1,22 @@
 ---
 name: Feature Request
-about: Propón una nueva funcionalidad
+about: Propose a new feature or improvement
 title: 'feat: '
 labels: enhancement
 assignees: ''
 ---
 
-## Descripción de la funcionalidad
-<!-- Qué quieres que exista y por qué -->
+## Description
+<!-- A clear and concise description of the feature and why it is needed. -->
 
-## Problema que resuelve
+## Problem it solves
+<!-- What problem or limitation does this address? -->
 
-## Solución propuesta
+## Proposed solution
+<!-- Describe the solution you have in mind. -->
 
-## Alternativas consideradas
+## Alternatives considered
+<!-- Any alternative approaches you have thought about. -->
 
-## Contexto adicional
+## Additional context
+<!-- Any other relevant information, mockups, or references. -->

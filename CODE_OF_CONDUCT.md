@@ -1,21 +1,23 @@
-# Código de Conducta
+# Code of Conduct
 
-## Nuestro compromiso
+## Our Commitment
 
-Nos comprometemos a mantener un ambiente respetuoso, inclusivo y profesional para todos los colaboradores.
+We are committed to maintaining a respectful, inclusive, and professional environment for all contributors, regardless of experience level, background, or identity.
 
-## Estándares
+## Standards
 
-**Comportamiento aceptable:**
-- Comunicación respetuosa y constructiva
-- Aceptar feedback con apertura
-- Enfocarse en lo mejor para el proyecto
+**Expected behavior:**
+- Communicate respectfully and constructively
+- Accept feedback with openness
+- Focus on what is best for the project and the team
+- Acknowledge differing perspectives and experiences
 
-**Comportamiento inaceptable:**
-- Lenguaje ofensivo o discriminatorio
-- Ataques personales
-- Acoso de cualquier tipo
+**Unacceptable behavior:**
+- Offensive, discriminatory, or derogatory language
+- Personal attacks or public humiliation
+- Harassment in any form
+- Publishing private information without consent
 
-## Reporte
+## Enforcement
 
-Reporta incidentes a los mantenedores del proyecto vía issues privados o contacto directo.
+Violations may be reported to the project maintainers. All reports will be reviewed promptly and handled with discretion. Maintainers reserve the right to remove, edit, or reject contributions that do not comply with this Code of Conduct.
