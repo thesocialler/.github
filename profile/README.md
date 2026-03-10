@@ -5,25 +5,15 @@
 <h1 align="center">Socialler</h1>
 
 <p align="center">
-  The social platform built for real connections.
+  A social platform built around authenticity, meaningful engagement, and real recognition.
 </p>
 
 ---
 
-## What we build
+Socialler is a collaborative entertainment and social networking platform designed as an alternative to mainstream social media. Where traditional platforms optimize for superficial engagement, Socialler rewards quality — content that is actually read, genuinely interacted with, and worth sharing.
 
-Socialler is a social platform focused on meaningful interactions. We build the mobile app, backend services, and web experiences that power the platform.
+The platform centers on two core systems: **Aura**, which measures the real impact of a post based on verified consumption metrics like sustained reading time and meaningful interaction, and **Prime**, a prestige ranking that elevates creators who consistently produce valuable content and resets every six months to encourage continuous excellence.
 
-## Repositories
+Users organize around interest-based communities called plazas, and belong to one of four virtue-based clubs — Deorum, Felium, Sapientium, and Titanum — each representing different values and ways of engaging with the platform. A virtual economy built on **Solers** lets users earn currency through quality contributions and spend it on deep personalization: themes, fonts, animations, companion characters, and decorative frames.
 
-| Repository | Description |
-|------------|-------------|
-| [app](https://github.com/thesocialler/app) | Mobile application (Flutter — Android & iOS) |
-| [socialler.net](https://github.com/thesocialler/socialler.net) | Web platform |
-| [api-landing](https://github.com/thesocialler/api-landing) | Landing page API |
-| [socialler-admin](https://github.com/thesocialler/socialler-admin) | Admin panel |
-| [downloads](https://github.com/thesocialler/downloads) | Public downloads |
-
-## Standards
-
-All contributions across our repositories follow the same conventions. See our [contribution guidelines](https://github.com/thesocialler/.github/blob/main/CONTRIBUTING.md) for details on branch strategy, commit format, and the pull request process.
+Socialler is available on iOS, Android, and the web.
