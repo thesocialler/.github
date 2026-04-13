@@ -1,30 +1,21 @@
-## Description
-<!-- A clear and concise description of what this PR does and why. -->
+<!-- Org default: keep the body tight. Delete any heading that does not apply. -->
 
-## Type of change
-- [ ] `feat` — New feature
-- [ ] `fix` — Bug fix
-- [ ] `refactor` — Refactor with no functional change
-- [ ] `style` — UI / visual changes
-- [ ] `test` — Tests
-- [ ] `chore` — Maintenance / dependencies
-- [ ] `ci` — CI/CD
-- [ ] `docs` — Documentation
+## Overview
 
-## Changes
-<!-- List the main changes made in this PR. -->
--
+<!-- What changed, why now, and user or system impact. Add issue links here if you prefer one block. -->
 
-## Screenshots / Video
-<!-- If applicable, add screenshots or a screen recording. -->
+## Tracking
 
-## Checklist
-- [ ] PR title follows Conventional Commits format
-- [ ] Code compiles without errors
-- [ ] `flutter analyze` passes with no warnings
-- [ ] `flutter test` passes
-- [ ] Tested on Android
-- [ ] Tested on iOS
+<!-- Ticket key, URL, or GitHub issue — omit if you do not use a tracker. -->
 
-## Related issues
-<!-- Closes #XXX -->
+## Attachments
+
+<!-- UI captures, short recordings, or relevant logs. Link out if files are large. — None: say N/A. -->
+
+## Verification
+
+<!-- What you ran (tests, linters) and what you checked manually (env, device, staging). -->
+
+## Notes for reviewers
+
+<!-- Optional: deploy order, flags, breaking changes, risks, or follow-up work. -->

@@ -1,88 +1,36 @@
-# Contributing to Socialler
+# Contributing
 
-## Branch Strategy
+This repository holds **organization-wide** guidelines (contribute the same way in **API** and **mobile** repos unless a repo overrides something locally).
 
-| Branch | Purpose |
-|--------|---------|
-| `main` | Production — always stable and deployable |
-| `develop` | Integration branch — base for all features |
-| `feature/*` | New features (`feature/user-profile`) |
-| `fix/*` | Bug fixes (`fix/feed-scroll-crash`) |
-| `chore/*` | Maintenance, dependencies, tooling |
-| `release/*` | Release preparation (`release/v1.2.0`) |
-| `hotfix/*` | Critical production fixes |
+## Branches
 
-Branch off from `develop`. Never commit directly to `main`.
+- `main` — production
+- `develop` — integration; **branch new work from here**
+- `feature/*`, `fix/*`, `chore/*`, `release/*`, `hotfix/*` — short, descriptive names
 
-## Commit Convention
+Do not commit directly to `main`.
 
-We follow [Conventional Commits](https://www.conventionalcommits.org/).
+## Commits
 
-```
-<type>(<scope>): <short description>
+We use [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): summary` (imperative, ~72 chars, no trailing period).
 
-[optional body]
+Common types: `feat`, `fix`, `chore`, `refactor`, `style`, `test`, `docs`, `ci`, `perf`, `revert`.
 
-[optional footer]
-```
+Example: `fix(feed): stop crash when refreshing on iOS`
 
-### Types
+Link issues in the body when relevant: `Closes #42`.
 
-| Type | When to use |
-|------|-------------|
-| `feat` | A new feature |
-| `fix` | A bug fix |
-| `chore` | Maintenance with no functional change |
-| `refactor` | Code change that neither fixes a bug nor adds a feature |
-| `style` | Formatting, whitespace — no logic change |
-| `test` | Adding or correcting tests |
-| `docs` | Documentation only |
-| `ci` | CI/CD pipeline changes |
-| `perf` | Performance improvements |
-| `revert` | Reverting a previous commit |
+## Pull requests
 
-### Rules
+- Target **`develop`**, not `main`
+- Use the PR template (short summary + how you tested)
+- Prefer **squash merge**; PR title should match Conventional Commits
+- Get at least **one approval** before merge
 
-- Use the imperative mood: `add feature` not `added feature`
-- Keep the subject line under 72 characters
-- Do not end the subject line with a period
-- Reference issues in the footer: `Closes #42`
+## Reviews
 
-### Examples
-
-```
-feat(auth): add biometric login support
-fix(feed): resolve infinite scroll crash on iOS
-chore(deps): upgrade flutter to 3.22
-refactor(profile): extract avatar component into separate widget
-ci: add android release build workflow
-docs: update contributing guidelines
-```
-
-## Pull Requests
-
-- All PRs must target `develop`, never `main` directly
-- Fill out the PR template completely
-- Minimum **1 approval** required before merging
-- Use **squash merge** to keep a clean history
-- The PR title must follow Conventional Commits format
-- Link related issues using `Closes #XXX`
-
-## Code Review
-
-- Review within **24 hours** on business days
-- Be specific and constructive in comments
-- Prefix non-blocking comments with `nit:`
-- Approve only when you are confident the code is correct and follows conventions
+Aim to respond within a business day. Be specific; use `nit:` for optional nits. Approve when the change is correct and fits project conventions.
 
 ## Releases
 
-- A `release/vX.X.X` branch is cut from `develop`
-- After QA, it is merged into `main` and tagged
-- We follow [Semantic Versioning](https://semver.org): `MAJOR.MINOR.PATCH`
-
-| Increment | When |
-|-----------|------|
-| `MAJOR` | Breaking changes |
-| `MINOR` | New backward-compatible features |
-| `PATCH` | Backward-compatible bug fixes |
+Release branches follow `release/vX.Y.Z`. After QA, merge to `main` and tag. Versioning follows [SemVer](https://semver.org).

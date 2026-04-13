@@ -1,0 +1,28 @@
+name: Feature request
+description: Suggest an idea or improvement
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share the problem first; the solution can be a rough idea.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What is hard, missing, or worth improving?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed direction (optional)
+      description: How you imagine it could work — not a full spec.
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra context (optional)
+      description: Links, mocks, related issues.

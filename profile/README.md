@@ -5,15 +5,13 @@
 <h1 align="center">Socialler</h1>
 
 <p align="center">
-  A social platform built around authenticity, meaningful engagement, and real recognition.
+  A social platform built for authentic engagement and real recognition — not vanity metrics.
 </p>
 
 ---
 
-Socialler is a collaborative entertainment and social networking platform designed as an alternative to mainstream social media. Where traditional platforms optimize for superficial engagement, Socialler rewards quality — content that is actually read, genuinely interacted with, and worth sharing.
+Socialler is a collaborative social product that rewards **quality**: content people actually read and interact with meaningfully. **Aura** tracks real impact from verified engagement; **Prime** highlights top creators on a cadence that keeps the leaderboard fresh.
 
-The platform centers on two core systems: **Aura**, which measures the real impact of a post based on verified consumption metrics like sustained reading time and meaningful interaction, and **Prime**, a prestige ranking that elevates creators who consistently produce valuable content and resets every six months to encourage continuous excellence.
+People join **plazas** (interest communities) and **clubs** rooted in shared values. **Solers** power personalization — themes, typography, motion, companions, and more.
 
-Users organize around interest-based communities called plazas, and belong to one of four virtue-based clubs — Deorum, Felium, Sapientium, and Titanum — each representing different values and ways of engaging with the platform. A virtual economy built on **Solers** lets users earn currency through quality contributions and spend it on deep personalization: themes, fonts, animations, companion characters, and decorative frames.
-
-Socialler is available on iOS, Android, and the web.
+Available on **iOS**, **Android**, and **web**.
