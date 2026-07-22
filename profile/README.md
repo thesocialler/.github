@@ -18,8 +18,6 @@ Socialler rewards what actually matters: content people genuinely read, share, a
 - **Clubs** — smaller spaces rooted in shared values.
 - **Solers** — deep personalization: themes, typography, motion, companions, and more.
 
-Under the hood, Socialler runs on an event-driven backend of focused microservices — content, media, feeds, notifications, real-time, social graph, profiles, gamification, growth, and moderation — behind a single gateway.
-
 Available on **iOS**, **Android**, and **web**.
 
 <p align="center">
