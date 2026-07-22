@@ -1,17 +1,27 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/112509008?s=400&u=ca7c5d342b538de0d2bf433daf775313940c3f87&v=4" width="120" alt="Socialler" />
+  <img src="./isotype.png" width="96" alt="Socialler" />
 </p>
 
 <h1 align="center">Socialler</h1>
 
 <p align="center">
-  A social platform built for authentic engagement and real recognition — not vanity metrics.
+  <b>A social platform built for authentic engagement and real recognition — not vanity metrics.</b>
 </p>
 
 ---
 
-Socialler is a collaborative social product that rewards **quality**: content people actually read and interact with meaningfully. **Aura** tracks real impact from verified engagement; **Prime** highlights top creators on a cadence that keeps the leaderboard fresh.
+Socialler rewards what actually matters: content people genuinely read, share, and respond to. Instead of chasing likes, it measures real impact.
 
-People join **plazas** (interest communities) and **clubs** rooted in shared values. **Solers** power personalization — themes, typography, motion, companions, and more.
+- **Aura** — a reputation signal earned from verified, meaningful engagement, not follower counts.
+- **Prime** — surfaces standout creators on a recurring cadence, so the spotlight stays fresh.
+- **Plazas** — interest communities where people gather around what they care about.
+- **Clubs** — smaller spaces rooted in shared values.
+- **Solers** — deep personalization: themes, typography, motion, companions, and more.
+
+Under the hood, Socialler runs on an event-driven backend of focused microservices — content, media, feeds, notifications, real-time, social graph, profiles, gamification, growth, and moderation — behind a single gateway.
 
 Available on **iOS**, **Android**, and **web**.
+
+<p align="center">
+  <a href="https://socialler.com"><b>socialler.com</b></a>
+</p>
