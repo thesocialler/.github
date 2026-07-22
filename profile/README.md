@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thesocialler&label=Profile%20views&color=7855F6&style=for-the-badge" alt="Profile views" />
-  <a href="https://socialler.com"><img src="https://img.shields.io/badge/Made%20in-Mexico-6138F4?style=for-the-badge" alt="Made in Mexico" /></a>
 </p>
 
 ---
@@ -49,14 +48,21 @@ Socialler rewards what actually matters: content people genuinely read, share, a
 
 <br/>
 
-<h3 align="center">Support Socialler</h3>
+<h2 align="center">Support Socialler</h2>
 
-<p align="center">Help keep Socialler independent and free to build.</p>
+<p align="center">
+  Socialler is independent and free. Every donation goes straight to servers,<br/>
+  media storage, and shipping the next feature.
+</p>
 
 <p align="center">
   <a href="https://www.paypal.com/donate?campaign_id=LTW6VDK3D8FDC">
-    <img src="https://img.shields.io/badge/Donate-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
+    <img src="https://img.shields.io/badge/Donate%20with-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Prefer another way? Reach us at <a href="mailto:contact@socialler.net">contact@socialler.net</a>.</sub>
 </p>
 
 <p align="center">
